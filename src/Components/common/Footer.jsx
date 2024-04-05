@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made by Himanshu Sangwan 🗿 © 2023 Studynotion</div>
+          <div className="text-center">Made by Himanshu Sangwan and Nikita Nagar</div>
         </div>
       </div>
     </div>
